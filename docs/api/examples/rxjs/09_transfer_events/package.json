@@ -13,6 +13,6 @@
     "@polkadot/api": "*"
   },
   "devDependencies": {
-    "rimraf": "^2.6.2"
+    "rimraf": "^4.3.1"
   }
 }
